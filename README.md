@@ -13,45 +13,52 @@ because it’s right on point.</p>
 
 <p>Dear Democratic Party,</p>
 
-<p>I need more from you.</p>
-<p>You keep sending emails begging for $15, while we’re watching fascism consolidate 
+<p>I need more from you.<br>
+You keep sending emails begging for $15, while we’re watching fascism consolidate 
 power in real time.</p>
-<p>This administration is not simply “a different ideology.”</p>
-<p>It is a coordinated, authoritarian machine — with the Supreme Court, the House, the 
+
+<p>This administration is not simply “a different ideology.”<br>
+It is a coordinated, authoritarian machine — with the Supreme Court, the House, the 
 Senate, and the executive pen all under its control.</p>
-<p>And you?</p>
-<p>You’re still asking for decorum and donations. WTF?</p>
-<p>That won’t save us.</p>
-<p>I don’t want to hear another polite floor speech.</p>
-<p>I want strategy.</p>
-<p>I want fire.</p>
-<p>I want action so bold it shifts the damn news cycle — not fits inside one.</p>
-<p>Every time I see something from the DNC, it’s asking me for funds.</p>
-<p>Surprise.</p>
-<p>Those of us who donate don’t want to keep sending money just to watch you stand frozen as 
-the Constitution goes up in flames — shaking your heads and saying,</p>
+
+<p>And you?<br>
+You’re still asking for decorum and donations. WTF?<br>
+That won’t save us.<br>
+I don’t want to hear another polite floor speech.</p>
+
+<h4>I want strategy.<br>
+I want fire.<br>
+I want action so bold it shifts the damn news cycle — not fits inside one.</h4>
+
+<p>Every time I see something from the DNC, it’s asking me for funds.<br>
+Surprise.<br>
+Those of us who donate don’t want to keep sending money just to watch you stand frozen as 
+the Constitution goes up in flames — shaking your heads and saying,<br>
 “Well, there’s not much we can do. He has the majority.”</p>
-<p>I call bullshit.</p>
-<p>If you don’t know how to think outside the box…<br>
+
+<p>I call bullshit.<br>
+If you don’t know how to think outside the box…<br>
 If you don’t know how to strategize…<br>
 If you don’t know how to fight fire with fire…<br>
 what the hell are we giving you money for?</p>
 
-<p>Some of us have two or three advanced degrees.</p>
-<p>Some of us have military training.</p>
-<p>Some of us know what coordinated resistance looks like — and this ain’t it.</p>
+<p>Some of us have two or three advanced degrees.<br>
+Some of us have military training.<br>
+Some of us know what coordinated resistance looks like — and this ain’t it.</p>
 
-<p>Yes, the tours around the country? Nice.</p>
-<p>The speeches? Nice.</p>
-<p>The clever congressional clapbacks? Nice.</p>
-<p>That was great for giving hope.</p>
+<p>Yes, the tours around the country? Nice.<br>
+The speeches? Nice.<br>
+The clever congressional clapbacks? Nice.<br>
+That was great for giving hope.</p>
 
-<p>Now we need action.</p>
-<p>You have to stop acting like this is a normal presidency that will just time out in four years.</p>
-<p>We’re not even at Day 90, and look at the chaos.</p>
-<p>Look at the disappearances.</p>
-<p>Look at the erosion of the judiciary, the press, and our rights.</p>
-<p>If you do not stop this, we will not make it 1,460 days.</p>
+<p>Now we need action.<br>
+You have to stop acting like this is a normal presidency that will just time out in four years.</p>
+
+<p>We’re not even at Day 90, and look at the chaos.<br>
+Look at the disappearances.<br>
+Look at the erosion of the judiciary, the press, and our rights.<br>
+If you do not stop this, we will not make it 1,460 days.</p>
+
 <p>So here’s what I need from you — right now:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start="1">
@@ -83,15 +90,15 @@ what the hell are we giving you money for?</p>
   </li>
 </ol>
 
-But you can control your own integrity.
-So prove it. Prove that your party is still grounded in law, human rights, and ethical leadership.
-Join.
-If you’ve got nothing to hide — join.
+<p>But you can control your own integrity.<br>
+So prove it. Prove that your party is still grounded in law, human rights, and ethical leadership.<br>
+Join.<br>
+If you’ve got nothing to hide — join.</p>
 
-Show the world who’s hiding bodies, bribes, and buried bank accounts.
-Force the GOP to explain why they’d rather protect a war criminal than sign a treaty.
-And while you’re at it, publicly invite ICC observers into U.S. borders.
-Make this administration explain — on camera — why they’re terrified of international oversight.
+<p>Show the world who’s hiding bodies, bribes, and buried bank accounts.<br>
+Force the GOP to explain why they’d rather protect a war criminal than sign a treaty.<br>
+And while you’re at it, publicly invite ICC observers into U.S. borders.<br>
+Make this administration explain — on camera — why they’re terrified of international oversight.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "3">
   <li><h3>Fund state-level resistance infrastructure.</h3>
@@ -140,7 +147,7 @@ Make this administration explain — on camera — why they’re terrified of in
     </ul>
   </li>
 </ol>
-⸻
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "5">
   <li><h3>Leverage international media and watchdogs.</h3>
     <ul>
@@ -202,44 +209,29 @@ Make this administration explain — on camera — why they’re terrified of in
   <li>You dismantle the throne he’s standing on — one coward at a time.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Stop being scared to fight dirty when the other side is fighting to erase the damn Constitution.<br>
+They are threatening to disappear AMERICANS.<br>
+A M E R I C A N S.</p>
 
-Stop being scared to fight dirty when the other side is fighting to erase the damn Constitution.
+<p>And your biggest move can’t be another strongly worded email.<br>
+We don’t want your urgently fundraising subject lines.</p>
 
-They are threatening to disappear AMERICANS.
+<p>We want backbone.<br>
+We want action.<br>
+We want to know you’ll stand up before we’re all ordered to sit down — permanently.<br>
+We are watching.</p>
 
-A M E R I C A N S.
+<p>And I don’t just mean your base.<br>
+I mean millions of us who see exactly what’s happening.<br>
+I’ve only got 6,000 followers — but the groups I’m in? The networks I touch? Over a quarter million.</p>
 
-And your biggest move can’t be another strongly worded email.
+<p>Often when I speak, it echoes.<br>
+But when we ALL speak, it ROARS with pressure that will cause change.<br>
+We need to be deafening.</p>
 
-We don’t want your urgently fundraising subject lines.
+<p>You still have a chance to do something historic.<br>
+To be remembered for courage, not caution.<br>
+To go down as the party that didn’t just watch the fall — but fought the hell back with everything they had.</p>
 
-We want backbone.
-
-We want action.
-
-We want to know you’ll stand up before we’re all ordered to sit down — permanently.
-
-We are watching.
-
-And I don’t just mean your base.
-
-I mean millions of us who see exactly what’s happening.
-
-I’ve only got 6,000 followers — but the groups I’m in? The networks I touch? Over a quarter million.
-
-Often when I speak, it echoes.
-
-But when we ALL
-
-speak, it ROARS with pressure that will cause change.
-
-We need to be deafening.
-
-You still have a chance to do something historic.
-
-To be remembered for courage, not caution.
-
-To go down as the party that didn’t just watch the fall — but fought the hell back with everything they had.
-
-But the clock is ticking.
-And the deportation buses are idling.
+<p>But the clock is ticking.<br>
+And the deportation buses are idling.</p>
