@@ -82,20 +82,20 @@ If you do not stop this, we will not make it 1,460 days.</p>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "2">
-  <li><h3>Join the International Criminal Court.</h3></li>
+  <li><h3>Join the International Criminal Court.</h3>
+    <ul>
+    <li>Yes, I said it. Call their bluff.<br>
+    You cannot control what the other side does.</li>
+  <li>But you can control your own integrity.<br>
+    So prove it. Prove that your party is still grounded in law, human rights, and ethical leadership.<br>
+    Join.<br>
+    If you’ve got nothing to hide — join.</li>
+  <li>Show the world who’s hiding bodies, bribes, and buried bank accounts.<br>
+    Force the GOP to explain why they’d rather protect a war criminal than sign a treaty.<br>
+	And while you’re at it, publicly invite ICC observers into U.S. borders.<br>
+	Make this administration explain — on camera — why they’re terrified of international oversight.</li>
+  </li>
 </ol>
-<p>Yes, I said it. Call their bluff.<br>
-You cannot control what the other side does.</p>
-
-<p>But you can control your own integrity.<br>
-So prove it. Prove that your party is still grounded in law, human rights, and ethical leadership.<br>
-Join.<br>
-If you’ve got nothing to hide — join.</p>
-
-<p>Show the world who’s hiding bodies, bribes, and buried bank accounts.<br>
-Force the GOP to explain why they’d rather protect a war criminal than sign a treaty.<br>
-And while you’re at it, publicly invite ICC observers into U.S. borders.<br>
-Make this administration explain — on camera — why they’re terrified of international oversight.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "3">
   <li><h3>Fund state-level resistance infrastructure.</h3>
@@ -204,13 +204,13 @@ Make this administration explain — on camera — why they’re terrified of in
 		running.</li>
     </ul>
   </li>
-  <li>You can’t stop a regime by asking the king to sit down.</li>
-  <li>You dismantle the throne he’s standing on — one coward at a time.</li>
 </ol>
+<p>You can’t stop a regime by asking the king to sit down.<br>
+You dismantle the throne he’s standing on — one coward at a time.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Stop being scared to fight dirty when the other side is fighting to erase the damn Constitution.<br>
 They are threatening to disappear AMERICANS.<br>
-A M E R I C A N S.</p>
+<h4>A M E R I C A N S</h4>.</p>
 
 <p>And your biggest move can’t be another strongly worded email.<br>
 We don’t want your urgently fundraising subject lines.</p>
