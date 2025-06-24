@@ -234,3 +234,8 @@ To go down as the party that didn’t just watch the fall — but fought the hel
 
 <p>But the clock is ticking.<br>
 And the deportation buses are idling.</p>
+
+<h2>This administration under 1 ruler; Trump is NOT AMERICA!</h2>
+<h2>Oligarchs, grift, buying votes. This is bullshit!</h2>
+<h3>Let's prove it isn't America. And show what IS AMERICA!</h3>
+
