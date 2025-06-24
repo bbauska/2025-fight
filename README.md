@@ -239,3 +239,11 @@ And the deportation buses are idling.</p>
 <h2>Oligarchs, grift, buying votes. This is bullshit!</h2>
 <h3>Let's prove it isn't America. And show what IS AMERICA!</h3>
 
+<h3>Is the Second Republican Great Depression Knocking at America's Door?</h3>
+
+<h3>History warns us: every major economic crash has led to a world war. Trump’s corruption, 
+debt, and tariffs may be lighting the fuse…</h3>
+
+<h2><p><a href="https://libertystreeteconomics.newyorkfed.org/2014/03/crisis-chronicles-the-credit-and-commercial-crisis-of-1772/">Credit Crisis 1772</a>.</p></h2>
+
+
