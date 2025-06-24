@@ -39,8 +39,7 @@ the Constitution goes up in flames — shaking your heads and saying,<br>
 <p>I call bullshit.<br>
 If you don’t know how to think outside the box…<br>
 If you don’t know how to strategize…<br>
-If you don’t know how to fight fire with fire…<br>
-what the hell are we giving you money for?</p>
+If you don’t know how to fight fire with fire…what the hell are we giving you money for?</p>
 
 <p>Some of us have two or three advanced degrees.<br>
 Some of us have military training.<br>
@@ -59,7 +58,8 @@ Look at the disappearances.<br>
 Look at the erosion of the judiciary, the press, and our rights.<br>
 If you do not stop this, we will not make it 1,460 days.</p>
 
-<p>So here’s what I need from you — right now:</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>So here’s what I need from you — right now:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start="1">
   <li><h3>Form an independent, civilian-powered investigative coalition.</h3>
@@ -82,13 +82,10 @@ If you do not stop this, we will not make it 1,460 days.</p>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "2">
-  <li><h3>Join the International Criminal Court.</h3>
-    <ul>
-	  <li>Yes, I said it. Call their bluff.</li>
-      <li>You cannot control what the other side does.</li>
-    </ul>
-  </li>
+  <li><h3>Join the International Criminal Court.</h3></li>
 </ol>
+<p>Yes, I said it. Call their bluff.<br>
+You cannot control what the other side does.</p>
 
 <p>But you can control your own integrity.<br>
 So prove it. Prove that your party is still grounded in law, human rights, and ethical leadership.<br>
@@ -109,30 +106,32 @@ Make this administration explain — on camera — why they’re terrified of in
       <li>If the federal government is hijacked, build power underneath it.</li>
       <li>If the laws become tools of oppression, help people resist them legally, locally, and boldly.</li>
       <li>This is not campaign season — this is an authoritarian purge.</li>
-      <li>Stop campaigning.</li>
-      <li>Act like this is the end of democracy, because it is.</li>
+      <li>Stop campaigning.<br>
+      Act like this is the end of democracy, because it is.</li>
       <li>We WILL REMEMBER the warriors come primaries.</li>
       <li>Fighting this regime should be your marketing strategy.</li>
-      <li>And let’s be clear:</li>
-      <li>The reason the other side always seems three steps ahead is because they ARE.</li>
-      <li>They prepared for this.
-      <li>They infiltrated school boards, courts, local legislatures, and police unions.</li>
-      <li>They built a machine while you wrote press releases.</li>
-      <li>We’re reacting — they’ve been executing a plan for years.</li>
-      <li>It’s time to shift from panic to blueprint.</li>
-      <li>You should already be working with strategists and military minds on PROJECT 
-	    2029, a coordinated, long-term plan to rebuild this country when the smoke clears.</li>
-    </ul>
-	</li>
-  <li>You should be publicly laying out:
-    <ul>
-	    <li>The laws and amendments you’ll pass to ensure this never happens again</li>
-        <li>The systems you’ll tear down and the safeguards you’ll enshrine</li>
-        <li>The plan to hold perpetrators of human atrocities accountable</li>
-        <li>The urgent commitment to immediately bring home those sold into slavery in El Salvador</li>
-      </ul>
+      <li>And let’s be clear:
+	    <ul>
+          <li>The reason the other side always seems three steps ahead is because they ARE.</li>
+          <li>They prepared for this.
+          <li>They infiltrated school boards, courts, local legislatures, and police unions.</li>
+          <li>They built a machine while you wrote press releases.</li>
+          <li>We’re reacting — they’ve been executing a plan for years.</li>
+          <li>It’s time to shift from panic to blueprint.</li>
+          <li>You should already be working with strategists and military minds on PROJECT 
+	        2029, a coordinated, long-term plan to rebuild this country when the smoke clears.</li>
+  	    </ul>
+      </li>
+      <li>You should be publicly laying out:
+        <ul>
+	      <li>The laws and amendments you’ll pass to ensure this never happens again</li>
+          <li>The systems you’ll tear down and the safeguards you’ll enshrine</li>
+          <li>The plan to hold perpetrators of human atrocities accountable</li>
+          <li>The urgent commitment to immediately bring home those sold into slavery in El Salvador</li>
+        </ul>
+      </li>
+    <li>You say you’re the party of the people?</li>
   </li>
-  <li>You say you’re the party of the people?</li>
 </ol>
 <p>Then show the people the plan.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
