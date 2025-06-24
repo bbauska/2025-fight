@@ -200,7 +200,7 @@ Make this administration explain — on camera — why they’re terrified of in
   </li>
   <li>You can’t stop a regime by asking the king to sit down.</li>
   <li>You dismantle the throne he’s standing on — one coward at a time.</li>
-</ul>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Stop being scared to fight dirty when the other side is fighting to erase the damn Constitution.
@@ -242,5 +242,4 @@ To be remembered for courage, not caution.
 To go down as the party that didn’t just watch the fall — but fought the hell back with everything they had.
 
 But the clock is ticking.
-
 And the deportation buses are idling.
