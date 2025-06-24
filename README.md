@@ -97,54 +97,37 @@ Make this administration explain — on camera — why they’re terrified of in
   <li><h3>Fund state-level resistance infrastructure.</h3>
     <ul>
       <li>Don’t just send postcards. Send resources.</li>
-
-Channel DNC funds into rapid-response teams, legal defense coalitions, sanctuary networks, and digital security training.
-
-If the federal government is hijacked, build power underneath it.
-
-If the laws become tools of oppression, help people resist them legally, locally, and boldly.
-
-This is not campaign season — this is an authoritarian purge.
-
-Stop campaigning.
-
-Act like this is the end of democracy, because it is.
-
-We WILL REMEMBER the warriors come primaries.
-
-Fighting this regime should be your marketing strategy.
-
-And let’s be clear:
-
-The reason the other side always seems three steps ahead is because they ARE.
-
-They prepared for this.
-
-They infiltrated school boards, courts, local legislatures, and police unions.
-
-They built a machine while you wrote press releases.
-
-We’re reacting — they’ve been executing a plan for years.
-
-It’s time to shift from panic to blueprint.
-
-You should already be working with strategists and military minds on PROJECT 2029,
-
-a coordinated, long-term plan to rebuild this country when the smoke clears.
-
-You should be publicly laying out:
-
-• The laws and amendments you’ll pass to ensure this never happens again
-
-• The systems you’ll tear down and the safeguards you’ll enshrine
-
-• The plan to hold perpetrators of human atrocities accountable
-
-• The urgent commitment to immediately bring home those sold into slavery in El Salvador
-
-You say you’re the party of the people?
-
-Then show the people the plan.
+      <li>Channel DNC funds into rapid-response teams, legal defense coalitions, sanctuary 
+	    networks, and digital security training.</li>
+      <li>If the federal government is hijacked, build power underneath it.</li>
+      <li>If the laws become tools of oppression, help people resist them legally, locally, and boldly.</li>
+      <li>This is not campaign season — this is an authoritarian purge.</li>
+      <li>Stop campaigning.</li>
+      <li>Act like this is the end of democracy, because it is.</li>
+      <li>We WILL REMEMBER the warriors come primaries.</li>
+      <li>Fighting this regime should be your marketing strategy.</li>
+      <li>And let’s be clear:</li>
+      <li>The reason the other side always seems three steps ahead is because they ARE.</li>
+      <li>They prepared for this.
+      <li>They infiltrated school boards, courts, local legislatures, and police unions.</li>
+      <li>They built a machine while you wrote press releases.</li>
+      <li>We’re reacting — they’ve been executing a plan for years.</li>
+      <li>It’s time to shift from panic to blueprint.</li>
+      <li>You should already be working with strategists and military minds on PROJECT 
+	    2029, a coordinated, long-term plan to rebuild this country when the smoke clears.</li>
+    </ul>
+	</li>
+  <li>You should be publicly laying out:
+    <ul>
+	    <li>The laws and amendments you’ll pass to ensure this never happens again</li>
+        <li>The systems you’ll tear down and the safeguards you’ll enshrine</li>
+        <li>The plan to hold perpetrators of human atrocities accountable</li>
+        <li>The urgent commitment to immediately bring home those sold into slavery in El Salvador</li>
+      </ul>
+  </li>
+  <li>You say you’re the party of the people?</li>
+</ol>
+<p>Then show the people the plan.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "4">
   <li><h3>Use your platform to educate the public on rights and resistance tactics.</h3>
@@ -183,20 +166,22 @@ Then show the people the plan.
 	  <li>Not everyone inside this regime is loyal.</li>
       <li>Some are scared. Some want out.</li>
       <li>Build the channels.</li>
-Encrypted. Anonymous. Protected.
-Make it easy for the cracks in the system to become gaping holes.
-And while you’re at it?
-Stop ostracizing MAGA defectors.
-Everyone makes mistakes — even glaring, critical ones.
-We are not the bullies.
-We are not the ones filled with hate.
-And it is not your job to shame people who finally saw the fire and chose to step out of it.
-They will have to deal with that internal struggle — the guilt of putting a very dangerous and callous regime in power.
-But they’re already outnumbered. Don’t push them back into the crowd.
-We don’t need purity.
-We need numbers.
-We need people willing to burn their red hats and testify against the machine they helped build.
-
+      <li>Encrypted. Anonymous. Protected.</li>
+      <li>Make it easy for the cracks in the system to become gaping holes.</li>
+      <li>And while you’re at it?</li>
+      <li>Stop ostracizing MAGA defectors.</li>
+      <li>Everyone makes mistakes — even glaring, critical ones.</li>
+      <li>We are not the bullies.</li>
+      <li>We are not the ones filled with hate.</li>
+      <li>And it is not your job to shame people who finally saw the fire and chose to step out of it.</li>
+      <li>They will have to deal with that internal struggle — the guilt of putting a very dangerous and callous regime in power.</li>
+      <li>But they’re already outnumbered. Don’t push them back into the crowd.</li>
+      <li>We don’t need purity.</li>
+      <li>We need numbers.</li>
+      <li>We need people willing to burn their red hats and testify against the machine they helped build.</li>
+	</ul>
+  </li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol type="1" start = "7">
   <li><h3>Study the collapse—and the comeback.</h3>
